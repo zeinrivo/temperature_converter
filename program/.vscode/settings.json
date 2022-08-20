@@ -1,0 +1,28 @@
+{
+
+"editor.fontSize": 15,
+"workbench.iconTheme": "vscode-icons",
+"terminal.integrated.letterSpacing": 2,
+"workbench.colorCustomizations": {"terminal.foreground": "#2cff01",
+    "terminal.background": "#03103a", "activityBar.background": "#44042b",
+    "activityBar.foreground": "#ffee00", "activityBar.border": "#ff00dd",
+    "editor.background": "#010924", "editor.foreground": "#c4f003",
+    "titleBar.border": "#ff00dd", "sideBar.border": "#ff00dd", 
+    "sideBar.background": "#16011b","titleBar.activeBackground": "#44042b",
+    "titleBar.activeForeground": "#ffffff","statusBar.background": "#44042b",
+    "tab.activeBackground": "#5e0469","terminal.border": "#ff00dd",
+    "tab.border": "#ff00dd","statusBar.border": "#ff00dd","panel.border": "#ff00dd",
+    "tab.activeBorder": "#ff00dd","editorGroupHeader.border": "#ff00dd",
+    } ,
+
+
+    "terminal.integrated.profiles.windows": {
+        "Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": ["-l"]
+        }
+      }
+
+
+
+}
